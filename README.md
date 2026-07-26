@@ -13,7 +13,8 @@ After surviving a shipwreck in the Bermuda Triangle, Captain José Salamanca awa
 
 ## 3D Model - The Telepido
 
-<img width="1920" height="1080" alt="The Telepido" src="https://github.com/user-attachments/assets/751299cb-7a8a-43a3-a663-fa4a2472b478" />
+<img width="1920" height="1080" alt="The Telepido" src="https://github.com/user-attachments/assets/28ad671d-f5d0-420b-827d-9597416b68e0" />
+
 
 ## Making Of
 
@@ -25,15 +26,17 @@ I created all of the drawings in Procreate, which I was able to learn fairly qui
 
 One of the core ideas from the concept phase was to combine terrestrial and marine animals. My first attempt was the "Lark," a hybrid between a monitor lizard and a shark. However, the design was neither visually appealing nor anatomically convincing. Without a proper neck, the creature's movement felt too limited, so I decided to abandon the concept and continue exploring new designs.
 
-<img width="774" height="436" alt="The Lark" src="https://github.com/user-attachments/assets/bd3830b3-12dd-494c-92e7-7db2682ef012" />
+<img width="774" height="436" alt="The Lark" src="https://github.com/user-attachments/assets/7c4dd086-8672-4dcf-8c1e-b0bbc9988e2b" />
+
 
 After exploring several ideas, I decided to replace the shark with a different marine animal that would solve the creature's neck issue. I chose a moray eel, as its long, flexible body naturally complemented the monitor lizard's anatomy. Beyond their physical similarities, both animals share an intimidating appearance while actually being relatively shy and non-aggressive, making the combination feel much more believable.
 
-<img width="606" height="455" alt="Cool" src="https://github.com/user-attachments/assets/3531b719-8a74-4831-b047-76961f6910bf" />
+<img width="606" height="455" alt="Cool" src="https://github.com/user-attachments/assets/968b36e0-d95f-48fc-a757-f9d6f686989d" />
 
-<img width="582" height="437" alt="Muräne" src="https://github.com/user-attachments/assets/db6d7ed8-5324-44a5-9766-2e51462018dd" />
+<img width="582" height="437" alt="Muräne" src="https://github.com/user-attachments/assets/7988b503-9379-49f3-818a-63b0d2f18102" />
 
-<img width="291" height="374" alt="Model_Sheetpng" src="https://github.com/user-attachments/assets/c9a882b4-d943-4223-a1f2-1f6fe3d581db" />
+<img width="291" height="374" alt="Model_Sheetpng" src="https://github.com/user-attachments/assets/b14c05bb-7481-4d1a-8b8d-82bebf9469f5" />
+
 
 ### 2. Nomad Sculpt
 
@@ -41,17 +44,18 @@ With the concept finalized, I moved on to sculpting the 3D model. Using the side
 
 Once the base sculpt was complete, I continued adding finer details. The Telepido gradually came to life as I sculpted its eyes, teeth, claws, and eventually its musculature, giving the creature a more believable and dynamic appearance.
 
-<img width="525" height="394" alt="Nomad1" src="https://github.com/user-attachments/assets/b6d83e9e-3e39-4324-b33d-7f0b155f4a9c" />
+<img width="525" height="394" alt="Nomad1" src="https://github.com/user-attachments/assets/1fa2dffd-3266-49a9-87cd-5c196e569d0d" />
 
-<img width="525" height="394" alt="Nomad2" src="https://github.com/user-attachments/assets/11e725bf-2949-4217-860b-fae59c4c4ab4" />
+<img width="525" height="394" alt="Nomad2" src="https://github.com/user-attachments/assets/520de72c-cd17-4c5e-85c5-4978d0b8e222" />
 
-<img width="790" height="593" alt="Nomad3" src="https://github.com/user-attachments/assets/ea0b8c52-7b29-445f-8f2c-097adbfb0545" />
+<img width="790" height="593" alt="Nomad3" src="https://github.com/user-attachments/assets/9093664e-e59b-40e2-aef9-43e453a6650f" />
+
 
 ### 3. Blender
 
 Before I could texture the model, I first had to retopologize it. Although this was one of the most time-consuming parts of the process, it was a valuable learning experience that helped me better understand proper mesh topology and how a clean topology is essential for texturing, rigging, and animation.
 
-<img width="867" height="491" alt="retro" src="https://github.com/user-attachments/assets/b0d675a5-af88-4eaa-85dd-6435fbe63522" />
+<img width="867" height="491" alt="retro" src="https://github.com/user-attachments/assets/f6bf8f8a-59f9-437e-826b-a2fee2210800" />
 
 After completing the manual retopology process, I ultimately decided to generate a low-poly version of the model using **Instant Meshes**. The software produced a clean and usable result, allowing me to continue with the workflow more efficiently.
 
@@ -63,7 +67,8 @@ Looking back, working in Blender was by far the most challenging and time-consum
 
 The final step was exporting the model from Blender into Unity. Together with other students, I joined a Discord session where we worked on creating our Unity scene collaboratively. After importing my model, I finalized the asset by adjusting the camera settings and lighting to achieve the desired presentation.
 
-<img width="1078" height="606" alt="Teli" src="https://github.com/user-attachments/assets/46d6d18d-9066-4d61-9fa9-4f15ef725ebe" />
+<img width="1078" height="606" alt="Teli" src="https://github.com/user-attachments/assets/83454ab0-c1f1-41bb-89c0-e8c493be12b1" />
+
 
 ## Credits
 
