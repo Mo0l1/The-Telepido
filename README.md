@@ -40,7 +40,7 @@ After exploring several ideas, I decided to replace the shark with a different m
 
 ### 2. Nomad Sculpt
 
-With the concept finalized, I moved on to sculpting the 3D model. Using the side-view concept art of the Telepido as a reference, I began by blocking out the basic shapes to establish the creature's overall proportions and structure. From there, I gradually refined the model by connecting the individual body parts and smoothing the transitions with the Smooth Brush.
+With the concept finalized, I moved on to sculpting the 3D model in Nomad Sculpt. Using the side-view concept art of the Telepido as a reference, I began by blocking out the basic shapes to establish the creature's overall proportions and structure. From there, I gradually refined the model by connecting the individual body parts and smoothing the transitions with the Smooth Brush.
 
 Once the base sculpt was complete, I continued adding finer details. The Telepido gradually came to life as I sculpted its eyes, teeth, claws, and eventually its musculature, giving the creature a more believable and dynamic appearance.
 
