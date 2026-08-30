@@ -9,7 +9,7 @@
 ## About the Project
 
 This project's goal was to create a 3D model from scratch for a potential game given the following setting:<br>
-After surviving a shipwreck in the Bermuda Triangle, Captain José Salamanca awakens on a mysterious island where he discovers he has been shrunk to a tiny size and must search for his missing crew. To survive, he builds shelters, tames local creatures, and faces the dangers of an unknown civilization as well as the island's strange flora and fauna. Along the way, he uncovers evidence of a distorted space-time continuum, including wreckage from Flight 19, and sets out to discover the island's secrets and find a way back to Earth.
+After surviving a shipwreck in the Bermuda Triangle, Captain José Salamanca awakens on a mysterious island where he discovers he has been shrunk to a tiny size and must search for his missing crew. To survive, he builds shelters, tames local creatures, and faces the dangers of an unknown civilization as well as the island's strange flora and fauna. Along the way, he uncovers evidence of a distorted space-time continuum, including wreckage from Flight 19, and sets out to discover the island's secrets and find a way back to the real world.
 
 ## 3D Model - The Telepido
 
